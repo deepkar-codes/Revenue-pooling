@@ -66,6 +66,10 @@ This smart contract solves the above problems by:
 **Contract Address:**
 `CAFIHC4SKGCFSVSTUX5WYUMRPRTBLNSTWL2RGTCEOZ6W2VFY7YI756RS`
 
+**Contract Link**
+https://stellar.expert/explorer/testnet/contract/CAFIHC4SKGCFSVSTUX5WYUMRPRTBLNSTWL2RGTCEOZ6W2VFY7YI756RS
+
+
 *(Deployed on Stellar Soroban Network)*
 
 ---
